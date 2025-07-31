@@ -4687,3 +4687,15 @@ input, select, textarea {
 		}
 
 	}
+	body, input, select, textarea, h1, h2, h3, h4, h5, h6, p, a, ul, li {
+		font-family: 'Montserrat', sans-serif !important;
+	}
+	
+
+.posts .image.fit img {
+		width: 100%;
+		height: 250px; /* Or adjust to your desired height */
+		object-fit: cover;
+		object-position: center;
+	}
+	
